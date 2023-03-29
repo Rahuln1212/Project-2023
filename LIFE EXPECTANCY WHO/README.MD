@@ -1,4 +1,4 @@
-LIFE EXPECTANCY WHO
+LIFE EXPECTANCY WHO DATASET
 
 Life Expectancy WHO dataset, which is sourced from Kaggle.
 
