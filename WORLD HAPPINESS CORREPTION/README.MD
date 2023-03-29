@@ -3,7 +3,7 @@ WORLD HAPPINESS CORREPTION
 This dataset is a collection of data from the annual World Happiness Reports, which ranks countries by their happiness levels based on a number of factors. 
 The dataset includes data from years 2015-2020, and contains information on various factors such as GDP per capita, social support, and Happiness score.
 
-Data
+DATA
 
 The dataset includes the following columns:
 
@@ -28,6 +28,7 @@ Dystopia_residual : A score based on a hypothetical comparison to the world's sa
 Continent : Region of the country.
 
 Acknowledgements
+
 This dataset is sourced from the annual World Happiness Reports, produced by the Sustainable Development Solutions Network (SDSN) in collaboration with the United Nations.
 
 Kaggle link: https://www.kaggle.com/datasets/eliasturk/world-happiness-based-on-cpi-20152020
