@@ -30,4 +30,5 @@ This dataset can be used for various analyses and visualizations related to happ
 Dataset source
 
 The dataset was obtained from Kaggle (https://www.kaggle.com/unsdsn/world-happiness). 
+
 The original source of the data is the World Happiness Report 2019, which can be found at http://worldhappiness.report/.
