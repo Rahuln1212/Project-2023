@@ -1,4 +1,4 @@
-WORLD HAPPINESS REPORT 2019 DATASET
+<h1> WORLD HAPPINESS REPORT 2019 DATASET </h1>
 
 This dataset is derived from the World Happiness Report 2019, published by the United Nations Sustainable Development Solutions Network. 
 The report ranks countries based on various factors that contribute to happiness, such as income, social support, and life expectancy.
@@ -27,7 +27,7 @@ Perception of corruption
 The data was sourced from a survey conducted by the Gallup World Poll, which asked individuals to evaluate their own lives on a scale of 0-10.
 This dataset can be used for various analyses and visualizations related to happiness and well-being. For example, it can be used to identify trends and patterns across different countries and regions, and to explore the relationship between happiness and economic, social, and environmental factors.
 
-Dataset source
+<h2> Dataset source </h2>
 
 The dataset was obtained from Kaggle (https://www.kaggle.com/unsdsn/world-happiness). 
 
