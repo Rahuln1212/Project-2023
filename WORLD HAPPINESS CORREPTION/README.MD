@@ -1,4 +1,4 @@
->h1> WORLD HAPPINESS CORREPTION </h1>
+<h1> WORLD HAPPINESS CORREPTION </h1>
 
 This dataset is a collection of data from the annual World Happiness Reports, which ranks countries by their happiness levels based on a number of factors. 
 The dataset includes data from years 2015-2020, and contains information on various factors such as GDP per capita, social support, and Happiness score.
