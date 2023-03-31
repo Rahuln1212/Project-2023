@@ -1,9 +1,9 @@
-DIAMOND PRICE PREDICTION DATASET
+<h1> DIAMOND PRICE PREDICTION DATASET </h1>
 
 This is a dataset for predicting the prices of diamonds. 
 The data was originally sourced from Kaggle and can be found here. https://www.kaggle.com/datasets/shivam2503/diamonds
 
-Content
+<h2> Content </h2>
 
 The dataset consists of 10 columns and 53,940 rows. 
 Each row represents a single diamond and contains the following information:
@@ -28,7 +28,7 @@ y: width in mm (0--58.9)
 
 z: depth in mm (0--31.8)
 
-Usage
+<h3> Usage </h3>
 
 This dataset can be used for regression problems related to diamond pricing. Some example use cases include:
 
